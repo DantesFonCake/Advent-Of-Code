@@ -1,0 +1,12 @@
+[package]
+name = "calories1-2"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "calories1"
+path = "src/calories1.rs"
+
+[[bin]]
+name = "calories2"
+path = "src/calories2.rs"
