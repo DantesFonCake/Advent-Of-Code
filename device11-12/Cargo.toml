@@ -1,0 +1,14 @@
+[package]
+name = "device11-12"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[[bin]]
+name = "device11"
+path = "src/device11.rs"
+
+[[bin]]
+name = "device12"
+path = "src/device12.rs"
